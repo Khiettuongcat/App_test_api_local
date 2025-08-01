@@ -1,0 +1,22 @@
+{
+    "title" : "Test Apis",
+    "methods": [
+        "GET",
+        "POST",
+        "PUT",
+        "DELETE"
+    ],
+    "data_type": [
+        "Json",
+        "Text"
+    ],
+    "content_type": [
+        "application/json",
+        "text/plain",
+        "application/x-www-form-urlencoded",
+        "multipart/form-data",
+        "text/xml",
+        "application/xml",
+        "text/csv"
+    ]
+}
